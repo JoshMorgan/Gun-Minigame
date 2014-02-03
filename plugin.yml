@@ -1,0 +1,11 @@
+name: My First Minigame
+main: me.ice374.treggame.minigamemain
+version: 1.0.0
+description: My first Minigame
+author: Josh Morgan
+
+commands:
+  game:
+    description: Minigame command
+
+  
